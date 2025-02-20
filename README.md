@@ -34,7 +34,7 @@ git clone https://github.com/rodrigoaguerra/contador-de-cliques.git
 ```
 3. **Acesse o diretório do projeto**:
 ```bash
-cd contador-de-clique
+cd contador-de-cliques
 ```
 4. **Instale as dependências do projeto**:
 ```bash
